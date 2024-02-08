@@ -76,6 +76,6 @@ This project focuses on the application of Agglomerative Hierarchical Clustering
 
 This project introduces an agglomerative hierarchical clustering algorithm for geographical pattern analysis in satellite images. The proposed algorithm addresses challenges in traditional hierarchical clustering, providing a more accurate and meaningful clustering of geographical features. Users can customize and apply the algorithm to their datasets, gaining insights into hidden patterns within the geographical data.
 
-For any questions or concerns, contact [Author Name/Email].
+For any questions or concerns, contact [chethan s/Chethanwork82@gmail.com].
 
 **Note:** Please ensure that all necessary dependencies are installed before running the notebook. Refer to the documentation for additional information on algorithm parameters and usage.
