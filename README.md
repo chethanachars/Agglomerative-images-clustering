@@ -21,6 +21,14 @@ This project focuses on the application of Agglomerative Hierarchical Clustering
    - Compare results with traditional hierarchical clustering and other existing methods.
    - Highlight the algorithm's ability to overcome difficulties associated with Euclidean distance in revealing hidden information in data.
 
+###Dataflow-Diagram:
+![data flow](https://github.com/chethanachars/Agglomerative-images-clustering/assets/158150756/5865bce3-3f47-46ba-8c22-58d925d2e70b)
+
+###output Screenhots:
+![Screenshot 2024-02-08 130439](https://github.com/chethanachars/Agglomerative-images-clustering/assets/158150756/32852df1-5939-49d4-903d-7086e1350836)
+![Screenshot 2024-02-08 130417](https://github.com/chethanachars/Agglomerative-images-clustering/assets/158150756/04a23bcb-f070-428c-8160-05c0dff386ad)
+![Screenshot 2024-02-08 130353](https://github.com/chethanachars/Agglomerative-images-clustering/assets/158150756/dcd08bf4-13a4-4248-a44e-d79116607a49)
+
 ### Clustering Process Overview:
 
 #### 1. Agglomeration Clustering Process:
